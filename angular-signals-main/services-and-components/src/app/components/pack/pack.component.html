@@ -1,0 +1,8 @@
+<div>
+    <ul *ngFor="let package of this.transfer.packed()">
+        <li>no: {{package.id}}, no. of cookies: {{ package.count}}</li>
+    </ul>
+
+    <button (click)="this.transfer.addPacked(this.transfer.baked())"> Make pack </button>
+    <button (click)="this.transfer.cleadPacked()"> Clear all</button>
+</div>
