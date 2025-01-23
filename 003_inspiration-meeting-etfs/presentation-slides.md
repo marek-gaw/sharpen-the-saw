@@ -31,14 +31,14 @@ Zanim podejmiesz decyzję, sprawdź!
 
 ---
 
-## Clickbait zamiast szczegółów
+## Ta prezentacja to...
 
 ::: columns
-:::: {.column width=70%}
-Temat jest znacznie szerszy niż opowiem w ~20 minut.
+:::: {.column width=50%}
+<i>Wstęp do omówienia abstraktu spisu treści skrótu opracowania</i>
 
 ::::
-:::: {.column width=30%}
+:::: {.column width=50%}
 
 ![](./img/oxi-clean-but-wait-theres-more.gif)
 
@@ -47,35 +47,23 @@ Temat jest znacznie szerszy niż opowiem w ~20 minut.
 ::::
 :::
 
-# Dlaczego?
+# Rozgrzewka
 
-![](./img/loveyou-hugs.gif){ width=30% }
+Pytanie rozgrzewkowe:
+podnieś rękę jeśli...
 
-<small>[source](https://tenor.com/pl/view/loveyou-hugs-gif-19723974)</small>
+## Inwestujesz na giełdzie?
 
----
+## Wiesz co to jest ETF?
 
-## Profil
+## Rozważasz zakup ETF?
 
-* perspektywa: 15+ lat
-* skłonność do ryzyka: niska
-* mieszięczny budżet na inwestycje: 500+ PLN
+# Profil inwestora
 
----
-
-## Bezpieczne oszczędzanie
-
-* Konta oszczędnościowe: <1% rocznie
-* Lokaty: 1,5% - 2,5% rocznie
-* Obligacje: 3,0% - 6,55% rocznie
-
----
-
-## Inwestycje
-
-* Akcje
-* TFI
-* ETF
+* perspektywa: długoterminowa 10-15+ lat
+* skłonność do ryzyka: niska/średnia
+* sposób inwestowania: stałe kwoty np. raz na kwartał
+* dywersyfikacja: obligacje, IKZE, IKE
 
 # Co to jest ETF ?
 
@@ -85,11 +73,11 @@ Temat jest znacznie szerszy niż opowiem w ~20 minut.
 
 ---
 
-## Dlaczego fundusze ETF są tak popularne?
+## Dlaczego fundusze ETF są popularne?
 
 * Ekspozycja na szeroki rynek
-* Bardzo duży wybór
-* Zmniejszone ryzyko
+* Bardzo duży wybór funduszy i śledzonych papierów wartościowych/towarów
+* Zmniejszone ryzyko niż pojedyncze aukcje
 * Dywersyfikacja
 * Niskie koszty
 
@@ -116,7 +104,7 @@ Fundusz ETF naśladuje aktywa w które inwestuje.
 
 ---
 
-## Na co?
+## Co może śledzić ETF?
 
 * indeksy giełdowe
 * surowce
@@ -159,9 +147,7 @@ Fundusz ETF naśladuje aktywa w które inwestuje.
 
 <small>![travota](./img/what-huh.gif)</small>
 
----
-
-# Gdzie?
+# Gdzie kupić?
 
 ---
 
@@ -172,13 +158,17 @@ Fundusz ETF naśladuje aktywa w które inwestuje.
 * Degiro, Interactive Brokers, ...
 * eToro, Trade212, ...
 
+Różni brokerzy mają różną ofertę!
+
 ---
 
 ## Waluta
 
 * PLN
-* EUR/USD z przewalutowaniem
-* EUR/USD
+* EUR/USD/GPB z przewalutowaniem
+* EUR/USD/GPB
+
+Wybór waluty to przede wszystkim warunki zakupu u borkera a nie wynik ETF.
 
 # Podatki
 
@@ -195,8 +185,6 @@ PIT-38!
 
 ::::
 :::
-
-* PIT-38
 
 # Q&A
 
