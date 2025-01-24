@@ -11,7 +11,7 @@ date:
 
 ---
 
-## Sprawdź zanim zadziałasz
+## Sprawdź zanim zaczniesz
 
 ::: columns
 :::: {.column width=70%}
@@ -33,19 +33,9 @@ Zanim podejmiesz decyzję, sprawdź!
 
 ## Ta prezentacja to...
 
-::: columns
-:::: {.column width=50%}
 <i>Wstęp do omówienia abstraktu spisu treści skrótu opracowania</i>
 
-::::
-:::: {.column width=50%}
 
-![](./img/oxi-clean-but-wait-theres-more.gif)
-
-<small>[source](https://tenor.com/pl/view/oxi-clean-but-wait-theres-more-home-shopping-gif-9592017)</small>
-
-::::
-:::
 
 # Rozgrzewka
 
@@ -58,20 +48,20 @@ podnieś rękę jeśli...
 
 ## Rozważasz zakup ETF?
 
-# Profil inwestora
-
-* perspektywa: długoterminowa 10-15+ lat
-* skłonność do ryzyka: niska/średnia
-* sposób inwestowania: stałe kwoty np. raz na kwartał
-* dywersyfikacja: obligacje, IKZE, IKE
-
 # Co to jest ETF ?
 
     Exchange Traded Fund, czyli fundusz notowany na giełdzie.
 
     ETF to fundusz replikujący cenę wybranych aktywów.
 
----
+## Dla kogo?
+
+* perspektywa: długoterminowa 10-15+ lat
+* skłonność do ryzyka: niska/średnia
+* sposób inwestowania: stałe kwoty np. raz na kwartał
+* dywersyfikacja: szeroki rynek
+* wiedza o inwestowaniu: niska-średnia
+* znajomość rynku: niska-średnia
 
 ## Dlaczego fundusze ETF są popularne?
 
@@ -118,12 +108,13 @@ Fundusz ETF naśladuje aktywa w które inwestuje.
 
 <small>[source](https://www.blackrock.com/pl/inwestorzy-indywidualni/produkty/253743/ishares-sp-500-b-ucits-etf-acc-fund)</small>
 
-# Rodzaje ETF
+# Jak wybrać ETF?
 
 ---
 
 ## Parametry
 
+* Śledzone zasoby
 * Całkowite koszty (TER)
 * Waluta
 * Siedziba funduszu
@@ -142,10 +133,6 @@ Fundusz ETF naśladuje aktywa w które inwestuje.
 
 * Akumulacyjne: dywidenda jest reinwestowana
 * Dystrybucyjne: dywidenda jest wypłacana
-
-# Co dalej?
-
-<small>![travota](./img/what-huh.gif)</small>
 
 # Gdzie kupić?
 
