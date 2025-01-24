@@ -7,9 +7,15 @@ date:
 - 2024.01.24
 ---
 
-# Disclamer
+# Wstępniak
 
 ---
+
+## Zasady
+
+* Prezentacja: ~20-30 min
+* Q&A: 30+ min
+* W trakcie prezentacji, pytania zadajemy na czacie - odpowiem na nie w pierwszej kolejności.
 
 ## Sprawdź zanim zaczniesz
 
@@ -33,9 +39,7 @@ Zanim podejmiesz decyzję, sprawdź!
 
 ## Ta prezentacja to...
 
-<i>Wstęp do omówienia abstraktu spisu treści skrótu opracowania</i>
-
-
+<i>Wstęp do omówienia abstraktu spisu treści skrótu opracowania.</i>
 
 # Rozgrzewka
 
@@ -181,5 +185,4 @@ iShares Core S&P 500 UCITS ETF USD (Acc)
 
 * [Atlas ETF](https://atlasetf.pl/etf-details/IE00B5BMR087)
 * [Just ETF](https://www.justetf.com/en/etf-profile.html?isin=IE00B5BMR087#overview)
-
 * [Backtest](https://curvo.eu/backtest/pl/portfel/ishares-core-s-p-500-ucits-etf-acc--NoIglgygFghgTgUwM4AIDCB7RKIDIAKKArAAwkoCqaAkgCoQoCitAYigBQCCAxtwJQgANMFDVGZAEJEJAWQBKJABwB2IQEYAulqA)
